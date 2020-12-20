@@ -1,5 +1,9 @@
 # AR-Specs
 
+## EDIT
+
+Some stuff is broken which I'll fix. If you are reading this then it's broken  
+
 ## Functionality
 
 You can click you pics on this website and using AR this website will adjust specticles onto your eyes.
